@@ -598,7 +598,7 @@ window.addEventListener("onWidgetLoad", function (obj) {
       type: "Yurei",
       conclusion: createGhostConclusionString(
           fieldData["yureiString"],
-          "Yurei"
+          "a Yurei"
       ),
       evidence: YUREI,
     },
