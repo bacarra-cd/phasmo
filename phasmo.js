@@ -97,7 +97,7 @@ const DIFFICULTY = {
   pro: "Professional",
   professional: "Professional",
   n: "Nightmare",
-  nig: "Nightmare",
+  ni: "Nightmare",
   nightmare: "Nightmare",
 };
 
